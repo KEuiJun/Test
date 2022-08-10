@@ -8,6 +8,8 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String id, pw, name;
+		
+		System.out.println("프로그램 시작");
 
 		// 항목선택
 		System.out.println("행동을 정해주세요.");
