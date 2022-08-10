@@ -17,6 +17,8 @@ public class Main {
 		String id, pw;
 		int sel, DNo;
 		
+		System.out.println("프로그램 시작");
+		
 		// 로그인--------------------------------
 		
 		System.out.println("아이디를 입력해주세요.");
